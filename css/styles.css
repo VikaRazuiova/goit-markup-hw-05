@@ -588,6 +588,8 @@ img {
     position: absolute;
     top: 0;
     right: 0;
+    margin-right: 8px;
+    margin-top: 8px;
     width: 30px;
     height: 30px;
     background: #FFFFFF;
