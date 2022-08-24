@@ -586,10 +586,8 @@ img {
 
 .button-modal-close{
     position: absolute;
-    top: 0;
-    right: 0;
-    margin-right: 8px;
-    margin-top: 8px;
+    top: 8px;
+    right: 8px;
     width: 30px;
     height: 30px;
     background: #FFFFFF;
